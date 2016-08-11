@@ -1,0 +1,11 @@
+E:\My\Labs\Epam\MicroORM\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\My\Labs\Epam\MicroORM\DataAccess\bin\Debug\DataAccess.dll
+E:\My\Labs\Epam\MicroORM\DataAccess\bin\Debug\DataAccess.pdb
+E:\My\Labs\Epam\MicroORM\DataAccess\obj\Debug\DataAccess.dll
+E:\My\Labs\Epam\MicroORM\DataAccess\obj\Debug\DataAccess.pdb
+E:\My\Labs\Epam\MicroORM\DataAccess\bin\Debug\Configuration.dll
+E:\My\Labs\Epam\MicroORM\DataAccess\bin\Debug\Configuration.pdb
+E:\My\Labs\Epam\MicroORM\DataAccess\bin\Debug\ORMMapper.dll
+E:\My\Labs\Epam\MicroORM\DataAccess\bin\Debug\ORMMapper.pdb
+E:\My\Labs\Epam\MicroORM\DataAccess\bin\Debug\Infrastructure.dll
+E:\My\Labs\Epam\MicroORM\DataAccess\bin\Debug\Infrastructure.pdb

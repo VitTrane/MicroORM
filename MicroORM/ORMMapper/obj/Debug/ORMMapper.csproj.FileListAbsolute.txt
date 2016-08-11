@@ -1,0 +1,7 @@
+E:\My\Labs\Epam\MicroORM\ORMMapper\bin\Debug\ORMMapper.dll
+E:\My\Labs\Epam\MicroORM\ORMMapper\bin\Debug\ORMMapper.pdb
+E:\My\Labs\Epam\MicroORM\ORMMapper\bin\Debug\Configuration.dll
+E:\My\Labs\Epam\MicroORM\ORMMapper\bin\Debug\Configuration.pdb
+E:\My\Labs\Epam\MicroORM\ORMMapper\obj\Debug\ORMMapper.csprojResolveAssemblyReference.cache
+E:\My\Labs\Epam\MicroORM\ORMMapper\obj\Debug\ORMMapper.dll
+E:\My\Labs\Epam\MicroORM\ORMMapper\obj\Debug\ORMMapper.pdb

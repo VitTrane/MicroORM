@@ -1,0 +1,5 @@
+E:\My\Labs\Epam\MicroORM\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\My\Labs\Epam\MicroORM\Infrastructure\bin\Debug\Infrastructure.dll
+E:\My\Labs\Epam\MicroORM\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\My\Labs\Epam\MicroORM\Infrastructure\obj\Debug\Infrastructure.dll
+E:\My\Labs\Epam\MicroORM\Infrastructure\obj\Debug\Infrastructure.pdb
